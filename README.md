@@ -13,7 +13,7 @@
 ##  About Me
 
 -  I'm currently working on exciting projects
--  I'm currently learning new technologies in English 🇬🇧
+-  I'm currently learning new technologies and english
 ---
 
 ##  Tech Stack & Tools

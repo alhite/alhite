@@ -1,5 +1,7 @@
 <div align="center">
   
+<img src="https://i.pinimg.com/originals/0e/44/d5/0e44d5a306b10e4a51f9106ffe16794b.gif" alt="Banner GIF" width="100%"/>
+
 #  Hi, I'm alhite!
 
 ###  Developer |  Creator |  Tech Enthusiast

@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://i.pinimg.com/originals/0e/44/d5/0e44d5a306b10e4a51f9106ffe16794b.gif" alt="Banner GIF" width="100%"/>
+<img src="https://i.pinimg.com/originals/2c/e6/8e/2ce68ed2a62f768e9f15ecd78ce8ae3f.gif" alt="Banner GIF" width="100%"/>
 
 #  Hi, I'm alhite!
 

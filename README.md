@@ -81,8 +81,8 @@
 <br />
 
 <div align="center">
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+  <a href="https://discordapp.com/users/dotaink59"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>&nbsp;
+  <a href="mailto:chavv3@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:2d2d2d,100:0d1117&height=120&section=footer" />

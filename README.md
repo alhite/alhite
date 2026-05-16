@@ -1,114 +1,88 @@
-<div align="center">
-  
-<img src="https://i.pinimg.com/originals/c9/0c/a2/c90ca230c0eb9da99d62fe0dab8cc875.gif" alt="Banner GIF" width="100%"/>
+<!-- ACCENT COLOR: ffffff — find and replace to change the entire theme -->
 
-#  Hi, I'm alhite!
-
-###  Developer |  Creator |  Tech Enthusiast
-
-</div>
-
----
-
-##  About Me
-
--  I'm currently working on exciting projects
--  I'm currently learning new technologies and english
----
-
-##  Tech Stack & Tools
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d2d2d,100:ffffff&height=180&section=header&text=Oleksandr&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=c9d1d9&descAlignY=55&fontFamily=JetBrains+Mono" />
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+things+that+matter;Reverse+Engineering+Enthusiast;UI%2FUX+%26+Frontend+Obsessed)](https://git.io/typing-svg)
 
 </div>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  </picture>
+</p>
 
-##  Connect With Me
+## Tech Stack
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alhite-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alhite_handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://alhite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhite.email@example.com)
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,go,python,rust,scala,latex&theme=dark&perline=5" />
+
+</td>
+<td align="center" width="50%">
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,mongodb,docker,git&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
 </div>
 
----
-
-##  GitHub Statistics
+## GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=alhite&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhite&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" width="100%" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" width="100%" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alhite&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<table>
+<tr>
+<td align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Activity&hide_border=true&bg_color=00000000&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" width="100%" />
+
+</td>
+</tr>
+</table>
 </div>
 
----
+<details>
+<summary>Detailed Metrics</summary>
+<br />
+<p align="center">
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</p>
+</details>
 
-##  GitHub Trophies
+<br />
 
 <div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=alhite&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
 </div>
 
----
-
-##  Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alhite&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-##  Featured Projects
-
-<div align="center">
-
-###  Project 1
-Description: Amazing project doing amazing things
-
-[View Repository →](https://github.com/alhite/project1)
-
----
-
-###  Project 2
-Description: Another cool project
-
-[View Repository →](https://github.com/alhite/project2)
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=alhite&color=blueviolet&style=for-the-badge)
-
-###  Show some  by starring some repositories!
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:2d2d2d,100:0d1117&height=120&section=footer" />

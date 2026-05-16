@@ -10,9 +10,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alhite/alhite/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alhite/alhite/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/alhite/alhite/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -46,12 +46,12 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" width="100%" />
+<img src="https://streak-stats.demolab.com?user=alhite&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" width="100%" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" width="100%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=alhite&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" width="100%" />
 
 </td>
 </tr>
@@ -63,7 +63,7 @@
 <tr>
 <td align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Activity&hide_border=true&bg_color=00000000&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alhite&custom_title=Contribution%20Activity&hide_border=true&bg_color=00000000&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" width="100%" />
 
 </td>
 </tr>
@@ -74,7 +74,7 @@
 <summary>Detailed Metrics</summary>
 <br />
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/alhite/alhite/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </p>
 </details>
 
